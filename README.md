@@ -1,4 +1,4 @@
-# Salary Statement Separator
+# Salary Statement Splitter
 This custom application was developed to automate an HR task related to the payroll of a German company.
 
 ## The problem 
