@@ -1,5 +1,5 @@
 # Salary Statement Splitter
-This custom application was developed to automate an HR task related to the payroll of a German company.
+This custom application was developed to automate two HR tasks related to the payroll of a German company.
 
 ## The problem 
 ### Split into one-page pdf files (January - November)
