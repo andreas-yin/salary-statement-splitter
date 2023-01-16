@@ -6,7 +6,7 @@ This custom application was developed to automate two HR tasks related to the pa
 Every month, the HR department gets a multipage pdf file that contains the salary statements of all their employees. Previously, they had to manually extract each person's salary statement (one page), save it as a single pdf file and give it a filename that includes the person's name. The task took about 90 minutes to complete. 
 
 ### Split  into two-page pdf files (December)
-End of December, they get a special multipage pdf file that not only contains all their employees' salary statements (first half of pdf), but also their certificates of wage tax deduction (second half of pdf). On top of the usual monthly task, HR also had to manually extract each employee's certificate of wage tax deduction from the multipage pdf and add it to that person's salary statement. So the single pdf files consisted of two pages: The salary statement was on page 1, the certificate of wage tax deduction was on page 2. The whole task took about 110 minutes to complete.
+End of December, they get a special multipage pdf file that not only contains all their employees' salary statements for the month of December (first half of pdf), but also their certificates of wage tax deduction (second half of pdf). On top of the usual monthly task, HR also had to manually extract each employee's certificate of wage tax deduction from the multipage pdf and add it to that person's salary statement. So the single pdf files consisted of two pages: The salary statement was on page 1, the certificate of wage tax deduction was on page 2. The whole task took about 110 minutes to complete.
 
 ## The solution
 Thanks to this application, these tasks have now been automated and take seconds only.
